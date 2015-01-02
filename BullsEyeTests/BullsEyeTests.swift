@@ -2,8 +2,8 @@
 //  BullsEyeTests.swift
 //  BullsEyeTests
 //
-//  Created by Young Joon Cha on 10/23/14.
-//  Copyright (c) 2014 Young Joon Cha. All rights reserved.
+//  Created by M.I. Hollemans on 10/09/14.
+//  Copyright (c) 2014 Razeware. All rights reserved.
 //
 
 import UIKit
